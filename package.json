@@ -1,0 +1,28 @@
+{
+  "name": "randomquotes",
+  "version": "1.0.0",
+  "description": "Random quote application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josejayesh/randomquotes.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express",
+    "Random",
+    "Quotes"
+  ],
+  "author": "Jayesh Jose <<josejayesh@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josejayesh/randomquotes/issues"
+  },
+  "homepage": "https://github.com/josejayesh/randomquotes#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
